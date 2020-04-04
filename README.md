@@ -8,3 +8,13 @@ This test data generation uses [LEGO inventory data](https://rebrickable.com/dow
 - It maps one of the original data's attribute to test data's location id
 - It then aggregates by part number and location id to calculate inventory position
 
+## Setup
+
+Refer to "Get Started" section on [pandas-amex-match](https://github.ibm.com/wcelab/pandas-amex-match) project on how to set up the environment for a Jupyter Notebook development environment.
+
+
+## Where is the code?
+
+[testdata-generator.ipynb](./blob/master/testdata-generator.ipynb) is the only code. 
+[data_source](https://github.ibm.com/wcelab/s4s-testdata-engine/tree/master/data_source) folder contains original test data to be repurposed.
+
