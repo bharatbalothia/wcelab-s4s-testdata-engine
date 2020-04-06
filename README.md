@@ -15,6 +15,6 @@ Refer to "Get Started" section on [pandas-amex-match](https://github.ibm.com/wce
 
 ## Where is the code?
 
-[testdata-generator.ipynb](./testdata-generator.ipynb) is the only code. 
-[data_source](./data_source) folder contains original test data to be repurposed.
+- [testdata-generator.ipynb](./testdata-generator.ipynb) is the only code. 
+- [data_source](./data_source) folder contains original test data to be repurposed.
 
